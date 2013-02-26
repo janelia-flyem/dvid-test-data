@@ -1,0 +1,18 @@
+{
+    "VolumeMax": [
+        500,
+        500,
+        500
+    ],
+    "VoxelRes": [
+        10.0,
+        10.0,
+        10.0
+    ],
+    "VoxelResUnits": "nanometers",
+    "BlockMax": [
+        16,
+        16,
+        16
+    ]
+}
